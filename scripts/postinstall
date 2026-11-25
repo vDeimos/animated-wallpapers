@@ -1,0 +1,14 @@
+#!/bin/sh
+set -eu
+[ "${3:-/}" = / ] || exit 0
+label=local.gifpapers.animated-wallpapers.installed-lock-screen
+uid=$(/usr/bin/stat -f '%u' /dev/console)
+case "$uid" in
+    0|''|*[!0-9]*) exit 0 ;;
+esac
+domain="gui/$uid"
+if /bin/launchctl print "$domain/$label" >/dev/null 2>&1; then
+    /bin/launchctl kickstart -k "$domain/$label" || true
+elif /bin/launchctl print "$domain" >/dev/null 2>&1; then
+    /bin/launchctl bootstrap "$domain" "/Library/LaunchAgents/$label.plist" || true
+fi

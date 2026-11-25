@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>abandoned-house</key>
+	<string>Abandoned House</string>
+	<key>art-deco-athena-glow</key>
+	<string>Art Deco Athena Glow</string>
+	<key>art-deco-athena-helmet</key>
+	<string>Art Deco Athena Helmet</string>
+	<key>art-deco-atlas</key>
+	<string>Art Deco Atlas</string>
+	<key>art-deco-babel-tower</key>
+	<string>Art Deco Babel Tower</string>
+	<key>art-deco-circuit-temple</key>
+	<string>Art Deco Circuit Temple</string>
+	<key>art-deco-circuit-temple-rings</key>
+	<string>Art Deco Circuit Temple Rings</string>
+	<key>art-deco-dna-helix</key>
+	<string>Art Deco DNA Helix</string>
+	<key>art-deco-goddess</key>
+	<string>Art Deco Goddess</string>
+	<key>art-deco-paramount-lobby-scifi</key>
+	<string>Sci-Fi Paramount Lobby</string>
+	<key>art-deco-prometheus-city</key>
+	<string>Art Deco Prometheus City</string>
+	<key>art-deco-prometheus-halo</key>
+	<string>Art Deco Prometheus Halo</string>
+	<key>art-deco-prometheus-illustrated</key>
+	<string>Art Deco Prometheus Illustrated</string>
+	<key>art-deco-prometheus-sage</key>
+	<string>Art Deco Prometheus Sage</string>
+	<key>art-deco-rocket</key>
+	<string>Art Deco Rocket</string>
+	<key>art-deco-stone-face-scifi</key>
+	<string>Sci-Fi Stone Sentinel</string>
+	<key>art-deco-winged-night</key>
+	<string>Art Deco Winged Night</string>
+	<key>art-deco-winged-rain</key>
+	<string>Art Deco Winged Rain</string>
+	<key>blue-neon-cat-alley</key>
+	<string>Blue Neon Cat Alley</string>
+	<key>blue-neon-cat-silhouette</key>
+	<string>Blue Neon Cat Silhouette</string>
+	<key>blue-neon-crescent-moon</key>
+	<string>Blue Neon Crescent Moon</string>
+	<key>blue-neon-full-moon</key>
+	<string>Blue Neon Full Moon</string>
+	<key>blue-neon-heart-alley</key>
+	<string>Blue Neon Heart Alley</string>
+	<key>blue-neon-heart-ribbons</key>
+	<string>Blue Neon Heart Ribbons</string>
+	<key>blue-neon-moonlit-ocean</key>
+	<string>Blue Neon Moonlit Ocean</string>
+	<key>blue-neon-skull-grid</key>
+	<string>Blue Neon Skull Grid</string>
+	<key>blue-neon-skull-wireframe</key>
+	<string>Blue Neon Skull Wireframe</string>
+	<key>blue-neon-star</key>
+	<string>Blue Neon Star</string>
+	<key>blue-neon-sunset-alley</key>
+	<string>Blue Neon Sunset Alley</string>
+	<key>blue-neon-underwater-moon</key>
+	<string>Blue Neon Underwater Moon</string>
+	<key>candle</key>
+	<string>Candle</string>
+	<key>christmas-fireplace-cat-stockings</key>
+	<string>Christmas Fireplace Cat Stockings</string>
+	<key>christmas-fireplace-golden-retriever</key>
+	<string>Christmas Fireplace Golden Retriever</string>
+	<key>christmas-fireplace-sleeping-dog</key>
+	<string>Christmas Fireplace Sleeping Dog</string>
+	<key>christmas-fireplace-tree-bookshelf</key>
+	<string>Christmas Fireplace Tree Bookshelf</string>
+	<key>christmas-kitchen-baking-fireplace</key>
+	<string>Christmas Kitchen Baking Fireplace</string>
+	<key>christmas-kitchen-gingerbread-cookies</key>
+	<string>Christmas Kitchen Gingerbread Cookies</string>
+	<key>christmas-snowglobe-candles-ornaments</key>
+	<string>Christmas Snowglobe Candles Ornaments</string>
+	<key>christmas-snowglobe-winter-village</key>
+	<string>Christmas Snowglobe Winter Village</string>
+	<key>christmas-tree-balcony-city-view</key>
+	<string>Christmas Tree Balcony City View</string>
+	<key>cozy-cabin-christmas-tree-fireplace</key>
+	<string>Cozy Cabin Christmas Tree Fireplace</string>
+	<key>cozy-fireplace-cat-snowy-night</key>
+	<string>Cozy Fireplace Cat Snowy Night</string>
+	<key>crystal-ball</key>
+	<string>Crystal Ball</string>
+	<key>cyberpunk-alley-purple-rain</key>
+	<string>Cyberpunk Alley Purple Rain</string>
+	<key>cyberpunk-bridge-underbelly</key>
+	<string>Cyberpunk Bridge Underbelly</string>
+	<key>cyberpunk-market-rain</key>
+	<string>Cyberpunk Market Rain</string>
+	<key>cyberpunk-neon-city</key>
+	<string>Cyberpunk Neon City</string>
+	<key>cyberpunk-ramen-shop</key>
+	<string>Cyberpunk Ramen Shop</string>
+	<key>cyberpunk-rooftop-overview</key>
+	<string>Cyberpunk Rooftop Overview</string>
+	<key>cyberpunk-subway-neon</key>
+	<string>Cyberpunk Subway Neon</string>
+	<key>cyberpunk-temple-neon</key>
+	<string>Cyberpunk Temple Neon</string>
+	<key>dark-academia-apothecary</key>
+	<string>Dark Academia Apothecary</string>
+	<key>dark-academia-astronomy-tower</key>
+	<string>Astronomy Tower</string>
+	<key>dark-academia-clock-mechanism</key>
+	<string>Dark Academia Clock Mechanism</string>
+	<key>dark-academia-lecture-hall</key>
+	<string>Dark Academia Lecture Hall</string>
+	<key>dark-academia-library-rain</key>
+	<string>Dark Academia Library Rain</string>
+	<key>dark-academia-piano-room</key>
+	<string>Dark Academia Piano Room</string>
+	<key>dark-academia-reading-nook</key>
+	<string>Dark Academia Reading Nook</string>
+	<key>dark-academia-study-fireplace</key>
+	<string>Dark Academia Study Fireplace</string>
+	<key>dark-tower</key>
+	<string>Dark Tower</string>
+	<key>depth-portal-energy</key>
+	<string>Depth Portal Energy</string>
+	<key>dragon-fire-duel</key>
+	<string>Dragon Fire Duel</string>
+	<key>ferrofluid-spikes-dark</key>
+	<string>Ferrofluid Spikes</string>
+	<key>fireplace-art-deco</key>
+	<string>Art Deco Fireplace</string>
+	<key>fireplace-bohemian</key>
+	<string>Bohemian Fireplace</string>
+	<key>fireplace-christmas</key>
+	<string>Christmas Fireplace</string>
+	<key>fireplace-cinematic</key>
+	<string>Cinematic Fireplace</string>
+	<key>fireplace-cozy-cabin</key>
+	<string>Cozy Cabin Fireplace</string>
+	<key>fireplace-cyberpunk-neon</key>
+	<string>Cyberpunk Neon Fireplace</string>
+	<key>fireplace-japanese-irori</key>
+	<string>Japanese Irori Fireplace</string>
+	<key>fireplace-library-study</key>
+	<string>Library Study Fireplace</string>
+	<key>fireplace-lofi-anime</key>
+	<string>Lofi Anime Fireplace</string>
+	<key>fireplace-medieval-castle</key>
+	<string>Medieval Castle Fireplace</string>
+	<key>fireplace-scandinavian-hygge</key>
+	<string>Scandinavian Hygge Fireplace</string>
+	<key>fireplace-victorian-gothic</key>
+	<string>Victorian Gothic Fireplace</string>
+	<key>fountain</key>
+	<string>Fountain</string>
+	<key>frutiger-aero-ocean-wave</key>
+	<string>Frutiger Aero Ocean Wave</string>
+	<key>frutiger-aero-raindrop-glass</key>
+	<string>Frutiger Aero Raindrop Glass</string>
+	<key>frutiger-aero-underwater-bubbles</key>
+	<string>Frutiger Aero Underwater Bubbles</string>
+	<key>frutiger-aero-water-droplets</key>
+	<string>Frutiger Aero Water Droplets</string>
+	<key>gears</key>
+	<string>Gears</string>
+	<key>gothic-balcony-storm</key>
+	<string>Gothic Balcony Storm</string>
+	<key>gothic-cathedral-candlelight</key>
+	<string>Gothic Cathedral Candlelight</string>
+	<key>gothic-cathedral-underwater</key>
+	<string>Gothic Cathedral Underwater</string>
+	<key>gothic-clocktower-fog</key>
+	<string>Gothic Clocktower Fog</string>
+	<key>gothic-courtyard-rain</key>
+	<string>Gothic Courtyard Rain</string>
+	<key>gothic-crypt-torchlight</key>
+	<string>Gothic Crypt Torchlight</string>
+	<key>gothic-fireplace-ornate</key>
+	<string>Gothic Fireplace Ornate</string>
+	<key>gothic-forge-underground</key>
+	<string>Gothic Forge Underground</string>
+	<key>gothic-gargoyle-storm</key>
+	<string>Gothic Gargoyle Storm</string>
+	<key>gothic-greenhouse-rain</key>
+	<string>Gothic Greenhouse Rain</string>
+	<key>gothic-ruins-moonlight</key>
+	<string>Gothic Ruins Moonlight</string>
+	<key>gothic-waterfall-cave</key>
+	<string>Gothic Waterfall Cave</string>
+	<key>green-neon-butterfly</key>
+	<string>Green Neon Butterfly</string>
+	<key>green-neon-cat-geometric</key>
+	<string>Green Neon Cat Geometric</string>
+	<key>green-neon-cat-prowl</key>
+	<string>Green Neon Cat Prowl</string>
+	<key>green-neon-flower</key>
+	<string>Green Neon Flower</string>
+	<key>green-neon-heart-glow</key>
+	<string>Green Neon Heart Glow</string>
+	<key>green-neon-heart-rain</key>
+	<string>Green Neon Heart Rain</string>
+	<key>green-neon-moon</key>
+	<string>Green Neon Moon</string>
+	<key>green-neon-skull</key>
+	<string>Green Neon Skull</string>
+	<key>green-neon-sky</key>
+	<string>Green Neon Sky</string>
+	<key>green-neon-sunset</key>
+	<string>Green Neon Sunset</string>
+	<key>hot-spring-mountain-snow</key>
+	<string>Hot Spring Mountain Snow</string>
+	<key>impressionist-sunflower-cathedral</key>
+	<string>Impressionist Sunflower Cathedral</string>
+	<key>infinite-laptop-droste</key>
+	<string>Infinite Laptop</string>
+	<key>japanese-lily-pond-rain-dusk</key>
+	<string>Lily Pond at Dusk</string>
+	<key>japanese-snow-onsen</key>
+	<string>Snow Onsen</string>
+	<key>japanese-snow-village</key>
+	<string>Snow Village</string>
+	<key>jungle-temple</key>
+	<string>Jungle Temple</string>
+	<key>kromimi-sleeping</key>
+	<string>Kromimi Sleeping</string>
+	<key>kromimi-waving</key>
+	<string>Kromimi Waving</string>
+	<key>laptop-droste-home-office</key>
+	<string>Home Office Droste</string>
+	<key>lava-tube-glow</key>
+	<string>Lava Tube Glow</string>
+	<key>lighthouse</key>
+	<string>Lighthouse</string>
+	<key>lofi-balcony-plants</key>
+	<string>Lofi Balcony Plants</string>
+	<key>lofi-beach-sunset</key>
+	<string>Lofi Beach Sunset</string>
+	<key>lofi-bedroom-fairylights</key>
+	<string>Lofi Bedroom Fairylights</string>
+	<key>lofi-bus-stop-rain</key>
+	<string>Lofi Bus Stop Rain</string>
+	<key>lofi-cat-study-companion</key>
+	<string>Lofi Cat Study Companion</string>
+	<key>lofi-cat-windowsill</key>
+	<string>Lofi Cat Windowsill</string>
+	<key>lofi-christmas-reading</key>
+	<string>Lofi Christmas Reading</string>
+	<key>lofi-city-night-window</key>
+	<string>Lofi City Night Window</string>
+	<key>lofi-coffee-shop</key>
+	<string>Lofi Coffee Shop</string>
+	<key>lofi-convenience-store</key>
+	<string>Lofi Convenience Store</string>
+	<key>lofi-forest-path</key>
+	<string>Lofi Forest Path</string>
+	<key>lofi-girl-christmas-bedroom</key>
+	<string>Lofi Girl Christmas Bedroom</string>
+	<key>lofi-girl-dead</key>
+	<string>Lofi Girl Dead</string>
+	<key>lofi-japanese-girl-kimono-cherry-blossom</key>
+	<string>Lofi Japanese Kimono Cherry Blossom</string>
+	<key>lofi-lakeside-cabin</key>
+	<string>Lofi Lakeside Cabin</string>
+	<key>lofi-laundromat-night</key>
+	<string>Lofi Laundromat Night</string>
+	<key>lofi-rainy-street</key>
+	<string>Lofi Rainy Street</string>
+	<key>lofi-rainy-window</key>
+	<string>Lofi Rainy Window</string>
+	<key>lofi-rooftop-sunset</key>
+	<string>Lofi Rooftop Sunset</string>
+	<key>lofi-snowy-evening-walk</key>
+	<string>Lofi Snowy Evening Walk</string>
+	<key>lofi-study-desk</key>
+	<string>Lofi Study Desk</string>
+	<key>lofi-train-window</key>
+	<string>Lofi Train Window</string>
+	<key>lofi-vinyl-christmas</key>
+	<string>Lofi Vinyl Christmas</string>
+	<key>lofi-vinyl-corner</key>
+	<string>Lofi Vinyl Corner</string>
+	<key>lofi-winter-balcony</key>
+	<string>Lofi Winter Balcony</string>
+	<key>magical-snowglobe-christmas-lights</key>
+	<string>Magical Snowglobe Christmas Lights</string>
+	<key>nature-bamboo-lofi</key>
+	<string>Bamboo Grove Lofi</string>
+	<key>nature-beach-sunset</key>
+	<string>Beach Sunset</string>
+	<key>nature-beach-sunset-lofi</key>
+	<string>Beach Sunset Lofi</string>
+	<key>nature-beach-sunset-silhouette</key>
+	<string>Beach Sunset Silhouette</string>
+	<key>nature-beach-sunset-synthwave</key>
+	<string>Beach Sunset Synthwave</string>
+	<key>nature-beach-sunset-ukiyoe</key>
+	<string>Beach Sunset Ukiyo-e</string>
+	<key>nature-calm-ocean</key>
+	<string>Calm Ocean</string>
+	<key>nature-calm-ocean-bw</key>
+	<string>Calm Ocean Black &amp; White</string>
+	<key>nature-calm-ocean-romantic</key>
+	<string>Calm Ocean Romantic</string>
+	<key>nature-canopy-artnouveau</key>
+	<string>Canopy Art Nouveau</string>
+	<key>nature-cherry-blossom</key>
+	<string>Cherry Blossom</string>
+	<key>nature-cherry-blossom-lofi</key>
+	<string>Cherry Blossom Lofi</string>
+	<key>nature-cliffs-bwfilm</key>
+	<string>Cliffs Black &amp; White</string>
+	<key>nature-cliffs-romantic</key>
+	<string>Cliffs Romantic</string>
+	<key>nature-darkforest-gothic</key>
+	<string>Dark Forest Gothic</string>
+	<key>nature-foggy-forest</key>
+	<string>Foggy Forest</string>
+	<key>nature-lake-lofi</key>
+	<string>Lake Cabin Lofi</string>
+	<key>nature-mistymountain-romantic</key>
+	<string>Misty Mountain Romantic</string>
+	<key>nature-moonocean-gothic</key>
+	<string>Moon Ocean Gothic</string>
+	<key>nature-moonocean-romantic</key>
+	<string>Moon Ocean Romantic</string>
+	<key>nature-moonocean-synthwave</key>
+	<string>Moon Ocean Synthwave</string>
+	<key>nature-nightsky-synthwave</key>
+	<string>Night Sky Synthwave</string>
+	<key>nature-rain-window-darkacademia</key>
+	<string>Rain Window Dark Academia</string>
+	<key>nature-rain-window-filmnoir</key>
+	<string>Rain Window Film Noir</string>
+	<key>nature-rain-window-neonnoir</key>
+	<string>Rain Window Neon Noir</string>
+	<key>nature-snow-pixel</key>
+	<string>Snow Pixel</string>
+	<key>nature-snow-ukiyoe</key>
+	<string>Snow Ukiyo-e</string>
+	<key>nature-snowlake-lofi</key>
+	<string>Snow Lake Lofi</string>
+	<key>nature-storm-gothic</key>
+	<string>Storm Gothic Lighthouse</string>
+	<key>nature-storm-romantic</key>
+	<string>Storm Romantic</string>
+	<key>nature-thunder-lofi</key>
+	<string>Thunder Lofi</string>
+	<key>nature-tropical-lofi</key>
+	<string>Tropical Beach Lofi</string>
+	<key>nature-waterfall-lofi</key>
+	<string>Waterfall Lofi</string>
+	<key>nature-waves-romantic</key>
+	<string>Waves Romantic</string>
+	<key>nature-zen-lofi</key>
+	<string>Zen Garden Lofi</string>
+	<key>neon-purple-alley-fog</key>
+	<string>Neon Purple Alley</string>
+	<key>neon-purple-heart-aesthetic</key>
+	<string>Neon Purple Heart Aesthetic</string>
+	<key>neon-vibes-purple</key>
+	<string>Neon Vibes Purple</string>
+	<key>northern-lights</key>
+	<string>Northern Lights</string>
+	<key>ocean-purple-sunset</key>
+	<string>Ocean Purple Sunset</string>
+	<key>pink-neon-beach-club</key>
+	<string>Pink Neon Beach Club</string>
+	<key>pink-neon-flower</key>
+	<string>Pink Neon Flower</string>
+	<key>pink-neon-moon-balcony</key>
+	<string>Pink Neon Moon Balcony</string>
+	<key>pink-neon-moon-electric</key>
+	<string>Pink Neon Moon Electric</string>
+	<key>pink-neon-moon-space</key>
+	<string>Pink Neon Moon Space</string>
+	<key>pink-neon-rose</key>
+	<string>Pink Neon Rose</string>
+	<key>pink-neon-skull</key>
+	<string>Pink Neon Skull</string>
+	<key>pink-neon-sky</key>
+	<string>Pink Neon Sky</string>
+	<key>pink-neon-star</key>
+	<string>Pink Neon Star</string>
+	<key>pink-neon-sunset-planet</key>
+	<string>Pink Neon Sunset Planet</string>
+	<key>pink-synthwave-neon-city</key>
+	<string>Pink Synthwave Neon City</string>
+	<key>planet-earth-orbit</key>
+	<string>Planet Earth Orbit</string>
+	<key>planet-mars-orbit</key>
+	<string>Planet Mars Orbit</string>
+	<key>planet-mercury-orbit</key>
+	<string>Planet Mercury Orbit</string>
+	<key>planet-moon-orbit</key>
+	<string>Planet Moon Orbit</string>
+	<key>planet-saturn-orbit</key>
+	<string>Planet Saturn Orbit</string>
+	<key>planet-sun-orbit</key>
+	<string>Planet Sun Orbit</string>
+	<key>planet-venus-orbit</key>
+	<string>Planet Venus Orbit</string>
+	<key>purple-neon-angel-wings</key>
+	<string>Purple Neon Angel Wings</string>
+	<key>purple-neon-cat-glow</key>
+	<string>Purple Neon Cat Glow</string>
+	<key>purple-neon-cat-wireframe</key>
+	<string>Purple Neon Cat Wireframe</string>
+	<key>purple-neon-cosmic-sunset</key>
+	<string>Purple Neon Cosmic Sunset</string>
+	<key>purple-neon-crescent-moon</key>
+	<string>Purple Neon Crescent Moon</string>
+	<key>purple-neon-full-moon</key>
+	<string>Purple Neon Full Moon</string>
+	<key>purple-neon-heart</key>
+	<string>Purple Neon Heart</string>
+	<key>purple-neon-heart-glow</key>
+	<string>Purple Neon Heart Glow</string>
+	<key>purple-neon-skull</key>
+	<string>Purple Neon Skull</string>
+	<key>purple-neon-sky-lightning</key>
+	<string>Purple Neon Sky Lightning</string>
+	<key>purple-neon-sky-ribbons</key>
+	<string>Purple Neon Sky Ribbons</string>
+	<key>purple-neon-star-sign</key>
+	<string>Purple Neon Star Sign</string>
+	<key>purple-neon-starfield</key>
+	<string>Purple Neon Starfield</string>
+	<key>purple-synthwave-neon-city</key>
+	<string>Purple Synthwave Neon City</string>
+	<key>rain-autumn-park-golden</key>
+	<string>Rain Autumn Park</string>
+	<key>rain-balcony-thunderstorm</key>
+	<string>Rain Balcony Thunderstorm</string>
+	<key>rain-bridge-river-stone</key>
+	<string>Rain Bridge River Stone</string>
+	<key>rain-cafe-terrace-night</key>
+	<string>Rain Cafe Terrace Night</string>
+	<key>rain-japanese-garden</key>
+	<string>Rain Japanese Garden</string>
+	<key>rain-neon-alley-night</key>
+	<string>Rain Neon Alley Night</string>
+	<key>rain-rooftop-puddle-city</key>
+	<string>Rain Rooftop Puddle City</string>
+	<key>rain-temple-steps-torches</key>
+	<string>Rain Temple Steps Torches</string>
+	<key>rain-window-city-lights</key>
+	<string>Rain Window City Lights</string>
+	<key>reading-by-christmas-tree-fireplace</key>
+	<string>Reading by Christmas Tree Fireplace</string>
+	<key>reading-by-fireplace-christmas-tree</key>
+	<string>Reading by Fireplace Christmas Tree</string>
+	<key>record-player</key>
+	<string>Record Player</string>
+	<key>retro-futurism-control-room</key>
+	<string>Retro Futurism Control Room</string>
+	<key>retro-futurism-robot-lab</key>
+	<string>Retro Futurism Robot Lab</string>
+	<key>retro-futurism-space-lounge</key>
+	<string>Retro Futurism Space Lounge</string>
+	<key>sisyphus</key>
+	<string>Sisyphus</string>
+	<key>snow-globe-droste</key>
+	<string>Snow Globe</string>
+	<key>snow-house</key>
+	<string>Snow House</string>
+	<key>snowglobe-fireplace-christmas-garland</key>
+	<string>Snowglobe Fireplace Christmas Garland</string>
+	<key>snowglobe-village-oil-lamps</key>
+	<string>Snowglobe Village Oil Lamps</string>
+	<key>snowglobe-village-wreaths-moonlight</key>
+	<string>Snowglobe Village Wreaths Moonlight</string>
+	<key>snowglobe-winter-cabin-candlelight</key>
+	<string>Snowglobe Winter Cabin Candlelight</string>
+	<key>snowglobe-winter-village-deer</key>
+	<string>Snowglobe Winter Village Deer</string>
+	<key>snowy-balcony-armchair-city-lights</key>
+	<string>Snowy Balcony Armchair City Lights</string>
+	<key>snowy-city-balcony-hot-cocoa</key>
+	<string>Snowy City Balcony Hot Cocoa</string>
+	<key>sorolla-balcony-sea</key>
+	<string>Sorolla Balcony Sea</string>
+	<key>sorolla-spring-market</key>
+	<string>Sorolla Spring Market</string>
+	<key>space-barbarella-lounge</key>
+	<string>Space Barbarella Lounge</string>
+	<key>space-bebop-interior</key>
+	<string>Space Bebop Interior</string>
+	<key>space-dorm-room</key>
+	<string>Space Dorm Room</string>
+	<key>space-liminal-corridor</key>
+	<string>Space Liminal Corridor</string>
+	<key>space-loading-dock</key>
+	<string>Space Loading Dock</string>
+	<key>space-metropolis-deco</key>
+	<string>Space Metropolis Deco</string>
+	<key>space-neon-bar</key>
+	<string>Space Neon Bar</string>
+	<key>space-outland-cantina</key>
+	<string>Space Outland Cantina</string>
+	<key>space-retro-bridge</key>
+	<string>Space Retro Bridge</string>
+	<key>space-silent-running</key>
+	<string>Space Silent Running</string>
+	<key>space-tron-command</key>
+	<string>Space Tron Command</string>
+	<key>synthwave-city-rain</key>
+	<string>Synthwave City Rain</string>
+	<key>synthwave-diner-night</key>
+	<string>Synthwave Diner Night</string>
+	<key>synthwave-neon-sun</key>
+	<string>Synthwave Neon Sun</string>
+	<key>synthwave-outrun-purple-sun</key>
+	<string>Synthwave Outrun Purple Sun</string>
+	<key>synthwave-tunnel-neon</key>
+	<string>Synthwave Tunnel Neon</string>
+	<key>train</key>
+	<string>Train</string>
+	<key>tropical-jungle-waterfall-mist</key>
+	<string>Tropical Jungle Waterfall</string>
+	<key>tropical-lagoon-bioluminescent</key>
+	<string>Tropical Lagoon Bioluminescent</string>
+	<key>tropical-volcanic-beach</key>
+	<string>Tropical Volcanic Beach</string>
+	<key>tropical-waterfall-cave</key>
+	<string>Tropical Waterfall Cave</string>
+	<key>underwater-jellyfish-deep</key>
+	<string>Underwater Jellyfish Deep</string>
+	<key>vaporwave-aquarium</key>
+	<string>Vaporwave Aquarium</string>
+	<key>vaporwave-mall-abandoned</key>
+	<string>Vaporwave Mall Abandoned</string>
+	<key>vaporwave-plaza-fountain</key>
+	<string>Vaporwave Plaza Fountain</string>
+	<key>vaporwave-pool-columns</key>
+	<string>Vaporwave Pool Columns</string>
+	<key>victorian-bathroom-steam</key>
+	<string>Victorian Bathroom Steam</string>
+	<key>victorian-conservatory-rain</key>
+	<string>Victorian Conservatory Rain</string>
+	<key>victorian-kitchen-copper</key>
+	<string>Victorian Kitchen Copper</string>
+	<key>victorian-parlor-fireplace</key>
+	<string>Victorian Parlor Fireplace</string>
+	<key>victorian-street-gaslamps</key>
+	<string>Victorian Street Gaslamps</string>
+	<key>victorian-train-station</key>
+	<string>Victorian Train Station</string>
+	<key>vintage-hifi-speaker-cone</key>
+	<string>Vintage Hi-Fi Speaker</string>
+	<key>vintage-typewriter-lofi-christmas</key>
+	<string>Vintage Typewriter Lofi Christmas</string>
+	<key>volcano</key>
+	<string>Volcano</string>
+	<key>waterfall</key>
+	<string>Waterfall</string>
+	<key>waterfall-cascade-alien</key>
+	<string>Waterfall Cascade Alien</string>
+	<key>waterfall-cascade-cyberpunk</key>
+	<string>Waterfall Cascade Cyberpunk</string>
+	<key>waterfall-cascade-dark-academia</key>
+	<string>Waterfall Cascade Dark Academia</string>
+	<key>waterfall-cascade-epic</key>
+	<string>Waterfall Cascade Epic</string>
+	<key>waterfall-cascade-frozen-moon</key>
+	<string>Waterfall Cascade Frozen Moon</string>
+	<key>waterfall-cascade-gothic</key>
+	<string>Waterfall Cascade Gothic</string>
+	<key>waterfall-cascade-lava-alien</key>
+	<string>Waterfall Cascade Lava</string>
+	<key>waterfall-cascade-lofi</key>
+	<string>Waterfall Cascade Lofi</string>
+	<key>waterfall-cascade-ruins</key>
+	<string>Waterfall Cascade Ruins</string>
+	<key>waterfall-cascade-synthwave</key>
+	<string>Waterfall Cascade Synthwave</string>
+	<key>waves</key>
+	<string>Waves</string>
+	<key>western-desert-campfire</key>
+	<string>Western Desert Campfire</string>
+	<key>western-monument-valley-lightning</key>
+	<string>Western Monument Valley Lightning</string>
+	<key>windmill</key>
+	<string>Windmill</string>
+	<key>winter-balcony-cityscape-moonlight</key>
+	<string>Winter Balcony Cityscape Moonlight</string>
+	<key>workout-greek-god-cable-curls-sideview</key>
+	<string>Greek God Cable Curls Workout</string>
+	<key>workout-greek-god-deadlift</key>
+	<string>Greek God Deadlift Workout</string>
+	<key>workout-greek-god-dumbbell-bench-press</key>
+	<string>Greek God Dumbbell Bench Press Workout</string>
+	<key>workout-greek-god-hammer-curls-sideview</key>
+	<string>Greek God Hammer Curls Workout</string>
+	<key>workout-greek-god-inclined-dumbbell-press</key>
+	<string>Greek God Inclined Dumbbell Press Workout</string>
+	<key>workout-greek-god-lateral-raises</key>
+	<string>Greek God Lateral Raises Workout</string>
+	<key>workout-greek-god-leg-extension</key>
+	<string>Greek God Leg Extension Workout</string>
+	<key>workout-greek-god-seated-cable-row-sideview</key>
+	<string>Greek God Seated Cable Row Workout</string>
+	<key>workout-greek-god-squats</key>
+	<string>Greek God Squats Workout</string>
+	<key>you-can-do-the-thing</key>
+	<string>You Can Do The Thing!</string>
+</dict>
+</plist>
